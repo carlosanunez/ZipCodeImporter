@@ -4,6 +4,10 @@
 * Written by: Steve Birstok (Nov. 12, 2012)
 * http://www.stevebirstok.com/
 * http://github.com/haykuro/
+*
+* For help visit:
+* http://laravel.com/docs/artisan/tasks#creating-tasks
+*
 */
 class Import_Zip_Codes_Task
 {
